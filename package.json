@@ -1,0 +1,19 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "This application tells you whether your solution is valid or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragrtr/sudoku.git"
+  },
+  "author": "Chirag Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragrtr/sudoku/issues"
+  },
+  "homepage": "https://github.com/chiragrtr/sudoku#readme"
+}
